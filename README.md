@@ -1,8 +1,7 @@
 <div align="center">
   
-<img src="https://www.figma.com/design/BBsTvmbXFWraFsG9W001eQ/Untitled?node-id=2-3&t=LAEUqV8ohXHE03LF-1" width="100%"/>
+<img src="img/banner-github.png" width="100%"/>
 
-<!-- [EDIT: Add your profile photo here - upload to the repo and reference it] -->
 <img src="unnamed.jpg" alt="Profile Photo" width="150" height="150" style="border-radius: 50%; border: 4px solid #6C63FF;"/>
 
 <!-- [EDIT: Keep or remove these badges] -->
