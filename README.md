@@ -102,10 +102,6 @@
 
 ---
 
-<div align="center">
-
-### *"Continuous improvement is better than delayed perfection."*
-
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sofia-yamane&color=d4a5b3&style=for-the-badge&label=PROFILE+VIEWS)
