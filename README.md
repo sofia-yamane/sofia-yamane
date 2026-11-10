@@ -2,10 +2,8 @@
   
 <img src="img/banner-github.png" width="100%"/>
 
-<img src="unnamed.jpg" alt="Profile Photo" width="150" height="150" style="border-radius: 50%; border: 4px solid #6C63FF;"/>
 
-<!-- [EDIT: Keep or remove these badges] -->
-### 👩‍💻 Systems Analysis & Development Student | Customer Service Professional
+### 👩‍💻 Systems Analysis & Development Student 
 
 [![Location](https://img.shields.io/badge/📍_São_Paulo,_Brazil-000000?style=for-the-badge)](https://github.com/sofia-yamane)
 [![Email](https://img.shields.io/badge/📧_sofiayamane80@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sofiayamane80@gmail.com)
