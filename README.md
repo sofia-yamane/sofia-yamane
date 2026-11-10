@@ -12,62 +12,49 @@
 
 ---
 
-<!-- ============================================= -->
-<!-- ABOUT ME SECTION -->
-<!-- ============================================= -->
-
 ## 🚀 About Me
 
-<!-- [EDIT: Customize this paragraph based on your current focus] -->
-> Dynamic and versatile professional, currently studying **Systems Analysis and Development at FIAP**, with solid practical experience in customer service, sales, cashiering, and operational routines. I stand out for my excellent bilingual communication, ease in learning new tools, and strong organizational skills.
+> Dynamic and versatile professional, currently studying **Systems Analysis and Development at FIAP**, with solid practical experience in customer service, sales, and operational routines. I stand out for my excellent bilingual communication, ease in learning new tools, and strong organizational skills.
 
-- 🎓 Currently pursuing **Associate Degree in Systems Analysis and Development** at FIAP (Aug 2026 - Aug 2028)
-- 💼 Working in customer service and sales at **Cinemark**
-- 🌱 Currently learning: **Python, Java, Front-end Development, and AI Integration**
-- 🎯 Goal: Contributing to operational efficiency and continuous process improvement
+- 🎓 Currently pursuing **Associate Degree in Systems Analysis and Development** at FIAP
+- 💼 Working through college in customer service and sales
+- 🌱 Currently learning: **Full stack Development**
+- 🎯 Goal: Build a career and life in the tech industry
 - 🌍 Languages: **Portuguese (Native)** | **English (Fluent)**
 
 ---
 
-<!-- ============================================= -->
-<!-- TECH STACK SECTION -->
-<!-- ============================================= -->
-
 ## 🛠️ Tech Stack & Skills
 
-<!-- [EDIT: Add or remove badges based on your current skills] -->
-
 ### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-5D6D7E?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-6B7A8F?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### 🌐 Frontend & Web
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-7B8FA1?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-85929E?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-95A5A6?style=for-the-badge&logo=javascript&logoColor=white)
 
 ### 🗄️ Database & Tools
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4A5A6A?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle DB](https://img.shields.io/badge/Oracle_DB-5D6D7E?style=for-the-badge&logo=oracle&logoColor=white)
+![Git](https://img.shields.io/badge/Git-5D6D7E?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-34495E?style=for-the-badge&logo=github&logoColor=white)
 
 ### 📊 Methodologies & Concepts
-![BPMN](https://img.shields.io/badge/BPMN-FF6B6B?style=for-the-badge)
-![TDD](https://img.shields.io/badge/TDD-4ECDC4?style=for-the-badge)
-![QA](https://img.shields.io/badge/Quality_Assurance-45B7D1?style=for-the-badge)
-![AI](https://img.shields.io/badge/AI_%26_Chatbots-9B59B6?style=for-the-badge)
+![BPMN](https://img.shields.io/badge/BPMN-6A9C89?style=for-the-badge)
+![TDD](https://img.shields.io/badge/TDD-7B8FA1?style=for-the-badge)
+![QA](https://img.shields.io/badge/Quality_Assurance-5D6D7E?style=for-the-badge)
+![AI](https://img.shields.io/badge/AI-8E9AAF?style=for-the-badge)
+![Chatbot Development](https://img.shields.io/badge/Chatbot_Development-85929E?style=for-the-badge)
 
 ### 🎯 Other Skills
-![Customer Service](https://img.shields.io/badge/Customer_Service-FF9F43?style=for-the-badge)
-![Compliance](https://img.shields.io/badge/Compliance-1DD1A1?style=for-the-badge)
-![Office Package](https://img.shields.io/badge/Office_Package-DC143C?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge)
+![Customer Service](https://img.shields.io/badge/Customer_Service-85929E?style=for-the-badge)
+![Compliance](https://img.shields.io/badge/Compliance-6B7A8F?style=for-the-badge)
+![Office Package](https://img.shields.io/badge/Office_Package-7B8FA1?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-5D6D7E?style=for-the-badge)
 
 ---
-
-<!-- ============================================= -->
-<!-- EDUCATION & CERTIFICATIONS -->
-<!-- ============================================= -->
 
 ## 🎓 Education & Certifications
 
@@ -79,17 +66,13 @@
 
 ---
 
-<!-- ============================================= -->
-<!-- PROFESSIONAL EXPERIENCE -->
-<!-- ============================================= -->
-
 ## 💼 Professional Experience
 
 ### 🎬 Customer Service Professional | Cinemark
 > Direct customer service and sales in cinema operations
 
 - 🎟️ Cash operations, pricing, and customer support
-- 🧹 Facility organization and cleaning management
+- 🧹 Facility organization and cleaning
 - ⚡ Ensuring efficiency in daily processes
 
 ### 📞 Service Operator | UNINOVE
@@ -101,13 +84,7 @@
 
 ---
 
-<!-- ============================================= -->
-<!-- GITHUB STATS SECTION -->
-<!-- ============================================= -->
-
 ## 📈 GitHub Statistics
-
-<!-- [EDIT: These auto-update based on your GitHub activity] -->
 
 <div align="center">
 
@@ -121,17 +98,11 @@
 
 ---
 
-<!-- ============================================= -->
-<!-- CONTACT SECTION -->
-<!-- ============================================= -->
-
 ## 🤝 Let's Connect!
 
 <div align="center">
 
-<!-- [EDIT: Update these links with your actual profile URLs] -->
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sofia-yamane)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sofia-yamane-024a043b3)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sofiayamane80@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sofia-yamane)
 
@@ -139,14 +110,9 @@
 
 ---
 
-<!-- ============================================= -->
-<!-- FOOTER -->
-<!-- ============================================= -->
-
 <div align="center">
 
-<!-- [EDIT: You can update the quote or remove it] -->
-### 💡 "Continuous improvement is better than delayed perfection."
+### "Continuous improvement is better than delayed perfection."
 
 ---
 
