@@ -1,14 +1,9 @@
-<!-- ============================================= -->
-<!-- HEADER BANNER - EDIT: You can create a custom banner using Canva or Figma -->
-<!-- ============================================= -->
-
 <div align="center">
   
-<!-- [EDIT: Replace with your custom banner image URL or use this placeholder] -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sofia%20Yamane&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+<img src="https://www.figma.com/design/BBsTvmbXFWraFsG9W001eQ/Untitled?node-id=2-3&t=LAEUqV8ohXHE03LF-1" width="100%"/>
 
 <!-- [EDIT: Add your profile photo here - upload to the repo and reference it] -->
-<img src="https://via.placeholder.com/150" alt="Profile Photo" width="150" height="150" style="border-radius: 50%; border: 4px solid #6C63FF;"/>
+<img src="unnamed.jpg" alt="Profile Photo" width="150" height="150" style="border-radius: 50%; border: 4px solid #6C63FF;"/>
 
 <!-- [EDIT: Keep or remove these badges] -->
 ### 👩‍💻 Systems Analysis & Development Student | Customer Service Professional
