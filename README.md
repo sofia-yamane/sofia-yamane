@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-> Dynamic and versatile professional, currently studying **Systems Analysis and Development at FIAP**, with solid practical experience in customer service, sales, and operational routines. I stand out for my excellent bilingual communication, ease in learning new tools, and strong organizational skills.
+> Dynamic and versatile professional, currently studying **Systems Analysis and Development at FIAP**, with solid practical experience in customer service, sales, and operational routines. I stand out for my excellent bilingual communication and ease in learning new tools.
 
 - 🎓 Currently pursuing **Associate Degree in Systems Analysis and Development** at FIAP
 - 💼 Working through college in customer service and sales
