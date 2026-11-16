@@ -92,9 +92,6 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sofia-yamane&show_icons=true&hide_border=true&bg_color=0a0a0f&title_color=d4a5b3&text_color=f4f4f0&icon_color=d4a5b3)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sofia-yamane&layout=compact&hide_border=true&bg_color=0a0a0f&title_color=d4a5b3&text_color=f4f4f0)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sofia-yamane&hide_border=true&background=0a0a0f&ring=d4a5b3&fire=d4a5b3&currStreakNum=f4f4f0&sideNums=f4f4f0&currStreakLabel=d4a5b3&sideLabels=d4a5b3)
 
